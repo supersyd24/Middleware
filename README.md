@@ -4,6 +4,9 @@
 
 ### Benifits of using Fuzzy Logic as an additional system apart from a LLM
 
+![Alt Text](https://example.com/image.png)
+
+
 1. Recongize emotional states in degrees
 
 Instead of it being "sad"/"happy"/etc <br>
