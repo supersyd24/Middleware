@@ -23,8 +23,8 @@ It would be:
 - Adaptive Response Levels
 
 Example: <br>
-*Emotion Detected:* Moderatly Anxious 
-*Chatbot Response Angled:* Provide mild reasurance 
+*Emotion Detected:* Moderately Anxious 
+*Chatbot Response Angled:* Provide mild reassurance 
 
 - Empathy Scaling 
 
