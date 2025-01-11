@@ -28,3 +28,5 @@ Example: <br>
 3. Adjusting Tone and Language with Fuzzy Logic
 
 4. Handling Vague Emotional Expression 
+
+5. Building Trust: Human-like Interaction
