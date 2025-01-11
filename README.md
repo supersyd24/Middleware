@@ -46,4 +46,17 @@ The fuzzy logic control system adjusts the tone and language of responses based 
 
 #### 4. Handling Vague Emotional Expression 
 
+Humans often express emotions ambiguously or with mixed signals, such as *"I'm kind of upset, but I don't know why"* or *"I feel a little off."* The system handles these vague expressions by mapping them onto fuzzy sets that capture overlapping emotional states. <br>
+For instance:
+
+- **"Kind of upset"** might overlap between "low sadness" and "moderate sadness."
+- **"A little off"** could register as both "low sadness" and "low frustration."
+
+Fuzzy logic ensures that the chatbot can process these vague inputs and still generate meaningful responses. <br>
+*For example:*
+- If sadness is low but frustration is moderate, the response might focus on mild reassurance: *"It sounds like you're feeling a bit overwhelmed. Let's take it step by step."*
+- If sadness is high and frustration is low, the response might emphasize empathy: *"I'm here to support you during this tough time. Let's talk about it."*
+
+This flexibility in handling ambiguity builds a more human-like interaction style, making the user feel heard and understood.
+
 #### 5. Building Trust: Human-like Interaction
