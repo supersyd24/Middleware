@@ -13,4 +13,10 @@ It would be:
 - "extremly anxious"
 - etc
 
-2. 
+2. Contextual decision making with fuzzy sets
+
+- Adaptive Response Levels
+
+Example: <br>
+Emotion Detected: Moderatly Anxious 
+Chatbot Response Angled: Provide mild reasurance 
