@@ -7,7 +7,7 @@
 ![Alt Text](modelgit.jpg)
 
 
-1. Recongize emotional states in degrees
+#### 1. Recongize emotional states in degrees
 
 Instead of it being "sad"/"happy"/etc <br>
 It would be: 
@@ -18,7 +18,7 @@ It would be:
 - "extremly anxious"
 - etc
 
-2. Contextual decision making with fuzzy sets
+#### 2. Contextual decision making with fuzzy sets
 
 - Adaptive Response Levels
 
@@ -28,8 +28,8 @@ Example: <br>
 
 - Empathy Scaling 
 
-3. Adjusting Tone and Language with Fuzzy Logic
+#### 3. Adjusting Tone and Language with Fuzzy Logic
 
-4. Handling Vague Emotional Expression 
+#### 4. Handling Vague Emotional Expression 
 
-5. Building Trust: Human-like Interaction
+#### 5. Building Trust: Human-like Interaction
