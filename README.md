@@ -62,3 +62,5 @@ This flexibility in handling ambiguity builds a more human-like interaction styl
 #### 5. Building Trust: Human-like Interaction
 
 The system's human-like interaction capabilities rely on dynamic responses that mirror genuine empathy. By combining contextual decision-making with nuanced emotional scaling, the chatbot creates interactions that feel personal and trustworthy.
+
+
